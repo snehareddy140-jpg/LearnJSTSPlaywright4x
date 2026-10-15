@@ -1,3 +1,3 @@
-console.log(1+2);
-console.log(3*3);
-console.log(6/3);
+    console.log(1+2);
+    console.log(3*3);
+    console.log(6/3);
